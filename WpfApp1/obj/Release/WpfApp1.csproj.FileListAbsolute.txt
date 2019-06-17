@@ -1,0 +1,15 @@
+E:\study\smoktiy\wpf\WpfApp1\WpfApp1\bin\Release\WpfApp1.exe.config
+E:\study\smoktiy\wpf\WpfApp1\WpfApp1\bin\Release\WpfApp1.exe
+E:\study\smoktiy\wpf\WpfApp1\WpfApp1\bin\Release\WpfApp1.pdb
+E:\study\smoktiy\wpf\WpfApp1\WpfApp1\obj\Release\WpfApp1.csprojAssemblyReference.cache
+E:\study\smoktiy\wpf\WpfApp1\WpfApp1\obj\Release\MainWindow.g.cs
+E:\study\smoktiy\wpf\WpfApp1\WpfApp1\obj\Release\App.g.cs
+E:\study\smoktiy\wpf\WpfApp1\WpfApp1\obj\Release\WpfApp1_MarkupCompile.cache
+E:\study\smoktiy\wpf\WpfApp1\WpfApp1\obj\Release\WpfApp1_MarkupCompile.lref
+E:\study\smoktiy\wpf\WpfApp1\WpfApp1\obj\Release\MainWindow.baml
+E:\study\smoktiy\wpf\WpfApp1\WpfApp1\obj\Release\WpfApp1.g.resources
+E:\study\smoktiy\wpf\WpfApp1\WpfApp1\obj\Release\WpfApp1.Properties.Resources.resources
+E:\study\smoktiy\wpf\WpfApp1\WpfApp1\obj\Release\WpfApp1.csproj.GenerateResource.cache
+E:\study\smoktiy\wpf\WpfApp1\WpfApp1\obj\Release\WpfApp1.csproj.CoreCompileInputs.cache
+E:\study\smoktiy\wpf\WpfApp1\WpfApp1\obj\Release\WpfApp1.exe
+E:\study\smoktiy\wpf\WpfApp1\WpfApp1\obj\Release\WpfApp1.pdb
